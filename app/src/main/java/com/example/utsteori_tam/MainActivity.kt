@@ -1141,7 +1141,6 @@ fun MyTicketScreen() {
                 }
             }
         }
-        Spacer(Modifier.weight(1f))
         BottomNav(current = "myticket")
     }
 }
